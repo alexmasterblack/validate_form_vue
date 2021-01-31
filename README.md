@@ -1,6 +1,7 @@
-# validate_form
+# Форма с валидацией на Vue.js
 
-## Project setup
+## Выполнено [Клюкановой Дианой](https://github.com/alexmasterblack) и [Уткиным Данилом](https://github.com/DanilKlukanov)
+## Б8119-01.03.02систпро
 ```
 npm install
 ```
